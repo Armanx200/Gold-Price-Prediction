@@ -1,4 +1,3 @@
-```markdown
 # 📈 Gold Price Prediction Project
 
 Welcome to the Gold Price Prediction project! This repository contains the code and data used to predict the future adjusted closing price of Gold ETF. Using machine learning techniques, we aim to create an accurate model that helps in forecasting gold prices. 
